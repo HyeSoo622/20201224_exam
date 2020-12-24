@@ -9,6 +9,6 @@
 <body>
 <jsp:forward page="./loginform.do"/>
 <h1><a href="./boardList.do">글 목록 보기</a></h1>
-
+<h1>안녕하세요.</h1>
 </body>
 </html>
